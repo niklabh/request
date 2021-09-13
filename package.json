@@ -40,7 +40,7 @@
     "stringstream": "~0.0.4",
     "combined-stream": "~1.0.1",
     "isstream": "~0.1.1",
-    "har-validator": "^1.6.1",
+    "har-validator": "^3.4.0",
     "snyk": "^1.316.1"
   },
   "scripts": {
